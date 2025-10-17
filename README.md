@@ -1,2 +1,2 @@
 # jsonfast
-jsonfast - edit your json file easy on pythin
+jsonfast - edit your json file easy on python
